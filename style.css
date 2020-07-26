@@ -1,0 +1,55 @@
+.one {
+    margin: 70px auto;
+    text-align: center;
+    padding:10px 20px 20px 20px;
+
+    background-color: #C1FFF8;
+
+    width: 500px;
+    height: auto;
+    border: 2px solid grey;
+
+}
+.main{
+
+  padding: 20px 20px 20px 20px;
+}
+.delbtn, .delall{
+
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color:#67A2FD;
+    box-shadow: 2px 2px 2px lightblue ;
+    padding: 10px auto 10px auto;
+    margin: 10px 10px 10px 20px ;
+}
+list{
+    list-style: none;
+   
+   width: 10px;
+   height: 10px;
+}
+.item{
+    padding-left: 10px;
+    height: 30px;
+    font-size: medium;
+}
+.editbtn{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color:#F6E950;
+    box-shadow: 2px 2px 2px lightblue ;
+    padding: 10px auto 10px auto;
+    margin: 10px 10px 10px 10px ;
+}
+.addbtn{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px lightblue ;
+    padding: 10px auto 10px auto;
+    margin: 10px 10px 10px 10px ;
+    background-color:#F44040 ;
+}
